@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Meet Dagar
 - 👀 I’m interested in all things Android
-- 🌱 I’m currently learning Flutter
 - 📫 How to reach me https://www.linkedin.com/in/meet-dagar/
 
 <!---
